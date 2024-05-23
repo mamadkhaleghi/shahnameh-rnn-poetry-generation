@@ -25,12 +25,11 @@ The dataset used in this project is extracted from the Shahnameh, an epic Persia
 ## Pretrained Model
 The repository also includes a pretrained model saved after 650 epochs of training. This model can be used to generate verses without the need for retraining the network from scratch.
 
-- **`650epochs.hdf5`**: The pretrained model file.
+- **`650epochs.hdf5`**: The pretrained model file is available [here]([INSERT_YOUR_LINK_HERE](https://drive.google.com/file/d/1D2OpsTBGpyiDqD6D5F4Iw-sTYnicuSgt/view?usp=sharing)).
 
 ## Files
 - **`RNN_Poetry_Generation.ipynb`**: Jupyter Notebook containing the implementation of the RNN for poetry generation.
 - **`shahnameh.txt`**: The dataset file used for training the RNN model.
-- **`650epochs.hdf5`**: The pretrained model file after 650 epochs.
 
 ## Prerequisites
 Before you begin, ensure you have met the following requirements:
